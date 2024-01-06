@@ -3,7 +3,7 @@ package cmd
 import (
 	"fmt"
 	"github.com/miladsec/go-night-watch-security/internal/config"
-	"github.com/miladsec/go-night-watch-security/internal/service/versionService"
+	"github.com/miladsec/go-night-watch-security/internal/services/versionService"
 	"github.com/spf13/cobra"
 )
 
