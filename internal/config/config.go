@@ -6,8 +6,9 @@ import (
 )
 
 type Config struct {
-	LogLevel string
-	Version  string
+	LogLevel           string
+	Version            string
+	PostgresConnection string
 }
 
 func LoadConfig() (*Config, error) {
