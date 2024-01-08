@@ -13,5 +13,4 @@ Go Night Watch Security is an automated security scanning tool written in Go, de
 
 ## Installation
 
-```bash
-go get -u github.com/miladsec/go-night-watch-security
+In progress 
