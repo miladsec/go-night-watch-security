@@ -1,0 +1,4 @@
+Version: "1.0.0"
+LogLevel: "info"
+ChromeDriverPath: "chromedriver.exe"
+PostgresConnection: "host=127.0.0.1 port=5432 user=root password=root dbname=postgres sslmode=prefer"
